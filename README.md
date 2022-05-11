@@ -2,8 +2,9 @@
 
 ### Hi, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-[![LinkedIn](https://img.shields.io/badge/pedrofonsecaa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofonsecaa/)
-[![Gmail](https://img.shields.io/badge/contatopedrorn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatopedrorn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/danielgessese-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-gessese/)
+[![Gmail](https://img.shields.io/badge/danielgessese-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnlmdwrk@gmail.com)
+[![Dev](https://img.shields.io/badge/danielgessese-000000?style=for-the-badge&logo=black&logoColor=white)](https://dev.to/danigy/)
 
 💻 Front-End Developer <br />
 🏡 Based in Addis Ababa, Ethiopia.
