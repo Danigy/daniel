@@ -5,14 +5,15 @@
 [![LinkedIn](https://img.shields.io/badge/danielgessese-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-gessese/)
 [![Gmail](https://img.shields.io/badge/danielgessese-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnlmdwrk@gmail.com)
 [![Dev](https://img.shields.io/badge/danielgessese-000000?style=for-the-badge&logo=black&logoColor=white)](https://dev.to/danigy/)
+[![Twitter](https://img.shields.io/twitter/follow/danielgessese?style=for-the-badge&logo=black&logoColor=white)](https://twitter.com/danielgessese/)
 
 💻 Front-End Developer <br />
 🏡 Based in Addis Ababa, Ethiopia.
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=danielgessese alt=danielgessese/> </p>
 
 
-
-## About me
+## About Me
 A bit about my self
 I design and develop services for customers specializing creating stylish, modern websites, web services and online stores. My passion is to design digital user experiences through meaningful interactions. Check out my Portfolio.
 
@@ -113,6 +114,9 @@ Design and implement user interface components for JavaScript-based web and mobi
   </a>
   <a href="https://dev.to/danigy">
     <img alt="Dev danigy" src="https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=black&logoColor=white">
+  </a>
+  <a href="https://twitter.com/danielgessese/" target="blank">
+    <img alt="danielgessese" src="https://img.shields.io/twitter/follow/danielgessese?logo=twitter&style=for-the-badge">
   </a>
 </div>
 
