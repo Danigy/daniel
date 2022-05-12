@@ -25,7 +25,7 @@ Build app and UI components from prototypes and wireframes. Work with native mod
 ## Develop Website with Node.js and React js, 
 Design and implement user interface components for JavaScript-based web and mobile applications using the React open-source library ecosystem. As front-end developers, I am involved in all stages of interface component design, from conception through to final testing.
 
-## : OS
+## OS
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="width: 70px" />
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="width: 70px" />
@@ -33,7 +33,7 @@ Design and implement user interface components for JavaScript-based web and mobi
 </div> 
 
 
-## : React JS & React-Native Ecosystem
+## React JS & React-Native Ecosystem
 <div>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
@@ -58,7 +58,7 @@ Design and implement user interface components for JavaScript-based web and mobi
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="width: 53px" />
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -81,7 +81,7 @@ Design and implement user interface components for JavaScript-based web and mobi
     </p>
 
 
-## :rocket: Experience With
+## :rocket: Experience with
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
